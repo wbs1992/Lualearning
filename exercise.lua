@@ -2,6 +2,8 @@ function newstack()
     local self = {first = 0 , last = -1}
 
     local push = function(v)
+        
+        
     end
 
     local pop = function()
